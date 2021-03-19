@@ -1,0 +1,16 @@
+C:\Users\Denis Firat\Documents\GitHub\dotnetWykladKartkowka2\src\helloworld\bin\Debug\net5.0\helloworld.exe
+C:\Users\Denis Firat\Documents\GitHub\dotnetWykladKartkowka2\src\helloworld\bin\Debug\net5.0\helloworld.deps.json
+C:\Users\Denis Firat\Documents\GitHub\dotnetWykladKartkowka2\src\helloworld\bin\Debug\net5.0\helloworld.runtimeconfig.json
+C:\Users\Denis Firat\Documents\GitHub\dotnetWykladKartkowka2\src\helloworld\bin\Debug\net5.0\helloworld.runtimeconfig.dev.json
+C:\Users\Denis Firat\Documents\GitHub\dotnetWykladKartkowka2\src\helloworld\bin\Debug\net5.0\helloworld.dll
+C:\Users\Denis Firat\Documents\GitHub\dotnetWykladKartkowka2\src\helloworld\bin\Debug\net5.0\ref\helloworld.dll
+C:\Users\Denis Firat\Documents\GitHub\dotnetWykladKartkowka2\src\helloworld\bin\Debug\net5.0\helloworld.pdb
+C:\Users\Denis Firat\Documents\GitHub\dotnetWykladKartkowka2\src\helloworld\obj\Debug\net5.0\helloworld.csprojAssemblyReference.cache
+C:\Users\Denis Firat\Documents\GitHub\dotnetWykladKartkowka2\src\helloworld\obj\Debug\net5.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis Firat\Documents\GitHub\dotnetWykladKartkowka2\src\helloworld\obj\Debug\net5.0\helloworld.AssemblyInfoInputs.cache
+C:\Users\Denis Firat\Documents\GitHub\dotnetWykladKartkowka2\src\helloworld\obj\Debug\net5.0\helloworld.AssemblyInfo.cs
+C:\Users\Denis Firat\Documents\GitHub\dotnetWykladKartkowka2\src\helloworld\obj\Debug\net5.0\helloworld.csproj.CoreCompileInputs.cache
+C:\Users\Denis Firat\Documents\GitHub\dotnetWykladKartkowka2\src\helloworld\obj\Debug\net5.0\helloworld.dll
+C:\Users\Denis Firat\Documents\GitHub\dotnetWykladKartkowka2\src\helloworld\obj\Debug\net5.0\ref\helloworld.dll
+C:\Users\Denis Firat\Documents\GitHub\dotnetWykladKartkowka2\src\helloworld\obj\Debug\net5.0\helloworld.pdb
+C:\Users\Denis Firat\Documents\GitHub\dotnetWykladKartkowka2\src\helloworld\obj\Debug\net5.0\helloworld.genruntimeconfig.cache
